@@ -1,0 +1,7 @@
+/node_modules/*
+/data/assetsJsons/*
+/mochawesome-report/*
+*.txt
+*.csv
+package-lock.json
+debug.log

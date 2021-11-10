@@ -1,0 +1,19 @@
+{
+  "name": "erp-cap-tec-tfw",
+  "version": "1.0.0",
+  "description": "framework de pruebas automatizadas para el proyecto erp capacidades tecnologicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresap2150/erp-cap-tec-tfw.git"
+  },
+  "author": "andres.aparicio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresap2150/erp-cap-tec-tfw/issues"
+  },
+  "homepage": "https://github.com/andresap2150/erp-cap-tec-tfw#readme"
+}
